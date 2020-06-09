@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/PaulPerez2483/mons.git/static/css/main.3ed76e3a.chunk.css",
+    "main.js": "/PaulPerez2483/mons.git/static/js/main.45809e94.chunk.js",
+    "main.js.map": "/PaulPerez2483/mons.git/static/js/main.45809e94.chunk.js.map",
+    "runtime-main.js": "/PaulPerez2483/mons.git/static/js/runtime-main.d7602b36.js",
+    "runtime-main.js.map": "/PaulPerez2483/mons.git/static/js/runtime-main.d7602b36.js.map",
+    "static/js/2.a31ece46.chunk.js": "/PaulPerez2483/mons.git/static/js/2.a31ece46.chunk.js",
+    "static/js/2.a31ece46.chunk.js.map": "/PaulPerez2483/mons.git/static/js/2.a31ece46.chunk.js.map",
+    "index.html": "/PaulPerez2483/mons.git/index.html",
+    "precache-manifest.71feefe5c8157fd71f139bc093a4759e.js": "/PaulPerez2483/mons.git/precache-manifest.71feefe5c8157fd71f139bc093a4759e.js",
+    "service-worker.js": "/PaulPerez2483/mons.git/service-worker.js",
+    "static/css/main.3ed76e3a.chunk.css.map": "/PaulPerez2483/mons.git/static/css/main.3ed76e3a.chunk.css.map",
+    "static/js/2.a31ece46.chunk.js.LICENSE.txt": "/PaulPerez2483/mons.git/static/js/2.a31ece46.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7602b36.js",
+    "static/js/2.a31ece46.chunk.js",
+    "static/css/main.3ed76e3a.chunk.css",
+    "static/js/main.45809e94.chunk.js"
+  ]
+}
